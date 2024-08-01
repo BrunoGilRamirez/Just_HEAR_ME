@@ -34,7 +34,7 @@ If you use this code or find our work helpful, please cite our paper:
 > ```
 > @article{Gil2024,
 >   title={Sólo Escúchame: Spanish Emotional Accompaniment Chatbot},
->   author={Gil Ramírez, Bruno and López Espejel, Jessica and >Santiago Díaz, María del Carmen and Rubín Linares, Gustavo Trinidad},
+>   author={Gil Ramírez, Bruno and López Espejel, Jessica and Santiago Díaz, María del Carmen and Rubín Linares, Gustavo Trinidad},
 >   journal={arxiv},
 >   year={2024}
 > }
