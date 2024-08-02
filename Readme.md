@@ -2,7 +2,7 @@
 
 Welcome to **Sólo Escúchame** – an open-source Spanish emotional assistance chatbot powered by the LLaMA-2-7b-Chat model. Our goal is to provide emotional support through advanced AI. 💡
 
-## About This Repository
+## About This Repository 👋
 
 In this repository, you'll find:
 
@@ -14,16 +14,18 @@ In this repository, you'll find:
 
 - **Additional Details:** Discover other relevant information and updates.
 
-### Datasets
+### Datasets 📚
 
 At the core of our work lies the data. We have introduced two essential datasets:
 
-> - **Hispanic Emotion Recognition Based on Plutchik’s Wheel (HRECPW)** -
-> - **HEAR (Hispanic Emotional Accompaniment Responses)** -
+> - [**Hispanic Emotion Recognition Based on Plutchik’s Wheel (HRECPW)**](https://huggingface.co/datasets/BrunoGR/HRECPW-Hispanic_Responses_for_Emotional_Classification_based_on_Plutchik_Wheel) -  is designed for training models in the task of emotional classification. This dataset allows models to identify and classify various emotional categories based on the Plutchik wheel, with a particular focus on the Spanish language. 
 
-### Research Paper
 
-Our paper has been accepted in the at the 23rd Mexican International Conference on Artificial Intelligence ([MICAI 2024](http://www.micai.org/2024/)). You can also find our work on [arxiv](https://arxiv.org/).
+> - [**HEAR (Hispanic Emotional Accompaniment Responses)**](https://huggingface.co/datasets/BrunoGR/HEAR-Hispanic_Emotional_Accompaniment_Responses) - is designed to train language models in the task of emotionally accompanying users. This dataset enables models to generate empathetic and appropriate responses in Spanish, understanding and responding to different emotional situations.
+
+### Research Paper 📖
+
+Our paper has been accepted in the at the **23rd Mexican International Conference on Artificial Intelligence** ([MICAI 2024](http://www.micai.org/2024/)). You can also find our work on [arxiv](https://arxiv.org/).
 
 If you use this code or find our work helpful, please cite our paper:
 
