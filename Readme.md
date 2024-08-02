@@ -2,6 +2,13 @@
 
 Welcome to **Sólo Escúchame** – an open-source Spanish emotional assistance chatbot powered by the LLaMA-2-7b-Chat model. Our goal is to provide emotional support through advanced AI. 💡
 
+## Models in HuggingFace 🤗
+
+**Sólo Escúchame** is an enhanced, fine-tuned model based on LLaMA-2-7b-Chat, meticulously trained using the datasets outlined in the next section. You can download the model and find detailed specifications by clicking [here](https://huggingface.co/BrunoGR/Just_HEAR_Me).
+
+Additionally, we offer another version of this model, also fine-tuned on LLaMA-2-7b-Chat, utilizing the PEFT Adapter. This version is optimized for broader accessibility, requiring fewer computational resources. For more details and to download this model, [click here](https://huggingface.co/BrunoGR/JUST_HEAR_ME-PEFT_Adapter).
+
+
 ## About This Repository 👋
 
 In this repository, you'll find:
