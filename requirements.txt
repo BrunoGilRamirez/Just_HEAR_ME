@@ -12,4 +12,5 @@ seaborn==0.13.0
 accelerate==0.25.0
 evaluate==0.4.1
 load-dotenv==0.1.0
+numpy==1.25.2
 scipy==1.9.2
