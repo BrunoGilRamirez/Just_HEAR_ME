@@ -32,16 +32,19 @@ At the core of our work lies the data. We have introduced two essential datasets
 
 ## Research Paper 📖
 
-Our paper has been accepted in the at the **23rd Mexican International Conference on Artificial Intelligence** ([MICAI 2024](http://www.micai.org/2024/)). You can also find our work on [arxiv](https://arxiv.org/).
+Our paper has been accepted in the at the **23rd Mexican International Conference on Artificial Intelligence** ([MICAI 2024](http://www.micai.org/2024/)). You can also find our work on [arxiv](https://arxiv.org/pdf/2408.01852).
 
 If you use this code or find our work helpful, please cite our paper:
 
 > ```bibtex
-> @article{Gil2024,
->   title={Sólo Escúchame: Spanish Emotional Accompaniment Chatbot},
->   author={Gil Ramírez, Bruno and López Espejel, Jessica and Santiago Díaz, María del Carmen and Rubín Linares, Gustavo Trinidad},
->   journal={arxiv},
->   year={2024}
+> @misc{Gil2024,
+>   title={S\'olo Esc\'uchame: Spanish Emotional Accompaniment Chatbot}, 
+>   author={Bruno Gil Ramírez and Jessica López Espejel and María del Carmen Santiago Díaz and Gustavo Trinidad Rubín Linares},
+>   year={2024},
+>   eprint={2408.01852},
+>   archivePrefix={arXiv},
+>   primaryClass={cs.CL},
+>   url={https://arxiv.org/abs/2408.01852},
 > }
 > ```
 
